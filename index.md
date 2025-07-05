@@ -1,3 +1,3 @@
-## This is a title
+# 目录
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+[四十岁时的十条人生感悟](_posts\2025-7-5-ten-simple-thoughts.md)
